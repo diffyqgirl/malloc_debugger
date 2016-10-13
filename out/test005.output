@@ -1,0 +1,2 @@
+malloc count: active          5   total         10   fail          1
+malloc size:  active         40   total         55   fail 18446744073709551465

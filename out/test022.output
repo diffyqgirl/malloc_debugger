@@ -1,0 +1,3 @@
+MEMORY BUG: test022.c:9: invalid free of pointer 0x158c4a1, not allocated
+  test022.c:8: 0x158c4a1 is 1 bytes inside a 2000 byte region allocated here
+Aborted (core dumped)

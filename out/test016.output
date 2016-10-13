@@ -1,0 +1,2 @@
+MEMORY BUG: test016.c:8: invalid free of pointer 0x1, not in heap
+Aborted (core dumped)

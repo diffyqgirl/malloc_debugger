@@ -1,0 +1,2 @@
+MEMORY BUG: test025.c:12: detected wild write during free of pointer 0x8364a0
+Aborted (core dumped)

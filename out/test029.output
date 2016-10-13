@@ -1,0 +1,7 @@
+LEAK CHECK: test029.c:10: allocated object 0x1bac4f0 with size 11
+LEAK CHECK: test029.c:11: allocated object 0x1bac540 with size 12
+LEAK CHECK: test029.c:13: allocated object 0x1bac5e0 with size 14
+LEAK CHECK: test029.c:14: allocated object 0x1bac630 with size 15
+LEAK CHECK: test029.c:15: allocated object 0x1bac680 with size 16
+LEAK CHECK: test029.c:16: allocated object 0x1bac6d0 with size 17
+LEAK CHECK: test029.c:18: allocated object 0x1bac770 with size 19

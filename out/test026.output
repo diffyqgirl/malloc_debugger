@@ -1,0 +1,2 @@
+MEMORY BUG: test026.c:11: detected wild write during free of pointer 0x24ce4a0
+Aborted (core dumped)

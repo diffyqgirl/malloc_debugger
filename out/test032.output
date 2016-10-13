@@ -1,0 +1,3 @@
+MEMORY BUG: test032.c:16: invalid free of pointer 0x10835b0, not allocated
+malloc count: active          3   total          4   fail          0
+malloc size:  active       3400   total       3450   fail          0

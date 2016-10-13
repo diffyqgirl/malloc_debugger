@@ -1,0 +1,3 @@
+MEMORY BUG: test031.c:14: invalid free of pointer 0x23277f8, not allocated
+malloc count: active          4   total          4   fail          0
+malloc size:  active       3450   total       3450   fail          0

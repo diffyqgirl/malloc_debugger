@@ -1,0 +1,2 @@
+MEMORY BUG: test023.c:9: invalid free of pointer 0x7ffea510eda8, not in heap
+Aborted (core dumped)

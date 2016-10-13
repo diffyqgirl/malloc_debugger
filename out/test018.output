@@ -1,0 +1,2 @@
+MEMORY BUG: test018.c:10: invalid free of pointer 0xd5c4a0, not allocated
+Aborted (core dumped)
